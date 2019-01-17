@@ -1,9 +1,10 @@
 {
   "name": "testnode",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "app.js",
   "scripts": {
+    "dev": "node app.js",
     "test": "echo \"Error: no test specified\""
   },
   "repository": "git+https://github.com/LittleGnome/TestNode.git",
